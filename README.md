@@ -44,7 +44,7 @@ pip install pandas numpy jupyter
 
 1. Update the input path in the first notebook cell if the CSV is stored somewhere else.
 2. Open and run `clean.ipynb` from top to bottom.
-3. The cleaned data is written to `C:\Users\1040 G3\Downloads\clean.csv`.
+3. The cleaned data is written to `path`.
 
 For a portable setup, replace the absolute file paths with paths relative to this project folder.
 
